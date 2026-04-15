@@ -1,5 +1,4 @@
-apiVersion: apps/himansha@Dewmin-PC:/mnt/c/Users/A C E R/Desktop/DevOps Journey/projects$ helm version
-version.BuildInfo{Version:"v3.20.2", GitCommit:"8fb76d6ab555577e98e23b7500009537a471feee", GitTreeState:"clean", GoVersion:"go1.25.9"}v1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: go-web-app
